@@ -1,0 +1,39 @@
+{
+  "edition": "public-core",
+  "name": "cangmeng",
+  "owner": "lost-dream",
+  "new_core_license": "MIT",
+  "bundled_upstreams": [
+    {
+      "path": "skills/cangmeng/modules/minimal-zine/guide.md",
+      "source_skill": "gc-minimal-zine-poster-v0-1",
+      "sha256": "d4e1199623ee4d98e948189308eedc601f83ab0ae923568c6e9240f89c783b8b",
+      "license": "MIT",
+      "basis": "license accompanying this locally installed version; exact bytes preserved"
+    },
+    {
+      "path": "skills/cangmeng/modules/minimal-zine/LICENSE",
+      "source_skill": "gc-minimal-zine-poster-v0-1",
+      "sha256": "d15c81ae8fa9a0b4b1db46c66e4490cc92e4898fb1f55e030559fbd2a2e2a232",
+      "license": "MIT",
+      "basis": "license accompanying this locally installed version; exact bytes preserved"
+    },
+    {
+      "path": "skills/cangmeng/modules/pulp-print/guide.md",
+      "source_skill": "neil-quentin",
+      "sha256": "aa8598b4f39b2cf2b371d88dc6487e57bf81f0b67fef82b11eebdfa631eb8c48",
+      "license": "MIT",
+      "basis": "license accompanying this locally installed version; exact bytes preserved"
+    },
+    {
+      "path": "skills/cangmeng/modules/pulp-print/LICENSE",
+      "source_skill": "neil-quentin",
+      "sha256": "d1d2a0c34b9954bc5a9520ab82e79d7092c2542b007b1cf34597629f9875f653",
+      "license": "MIT",
+      "basis": "license accompanying this locally installed version; exact bytes preserved"
+    }
+  ],
+  "optional_extension_implementations_included": false,
+  "private_gallery_included": false,
+  "repository": "https://github.com/lost-dream/cangmeng"
+}
